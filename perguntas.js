@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Física',
+    'Qual a diferença entre massa e peso',
+    'Massa é a quantidade de matéria, peso é a força da gravidade agindo sobre a massa.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Quem foi Dom Pedro I',
+    'Foi o primeiro imperador do Brasil e declarou a independência em 1822'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matemática',
+    'Como a gente sabe se uma equação é do 1º grau?',
+    'Quando a letra (incógnita) tem expoente 1 e não tem raiz ou divisão com ela.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Pra que serve a mitocôndria na célula?',
+    'É tipo a usina de energia da célula, faz respiração celular e produz ATP.'
 )
